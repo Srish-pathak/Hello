@@ -1,6 +1,6 @@
-# Hello
+#Javascript
 
-## Hey, this is my first reposotiary
+## A code repo in the step of java learning
 
 ### Listen!
  - CCPC
