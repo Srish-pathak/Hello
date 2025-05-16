@@ -1,4 +1,4 @@
-# JavaScript Learning Journey 🚀
+# JavaScript Learning Journey 
 
 This repository contains my step-by-step progress learning JavaScript from the fundamentals to intermediate concepts, including mini-projects.
 
