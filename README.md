@@ -1,23 +1,24 @@
-#Java Learning Journey 
+# JavaScript Learning Journey 🚀
 
-## Javascript
-#### Java Learning Journey 
+This repository contains my step-by-step progress learning JavaScript from the fundamentals to intermediate concepts, including mini-projects.
 
-Welcome to my Java learning repository! This is a step-by-step collection of Java programs, organized by topic, as I build my understanding of core concepts and real-world applications.
+## Contents:
 
-## 🧭 Structure
+- Basics: Syntax, variables, data types, input/output
+- Operators and Control Flow: If-else, loops, switch-case
+- Functions: Traditional and arrow functions
+- Arrays and Objects: Data structures fundamentals
+- DOM Manipulation: Interacting with web pages dynamically
+- ES6 Features: Modern JavaScript enhancements
+- Asynchronous JavaScript: Callbacks, Promises, Async/Await
+- Mini Projects: Practical examples like calculator and todo app
 
-Each folder contains Java files, notes, and example outputs.
+## Usage:
 
-## 📚 Topics Covered
-- Basics (Syntax, Variables, Input/Output)
-- Control Flow (if, switch, loops)
-- Methods and Recursion
-- Object-Oriented Programming (Classes, Objects, Inheritance, Polymorphism)
-- Exception Handling
-- Data Structures (Arrays, ArrayList, HashMap)
-- File I/O
-- Java 8 Features (Lambdas, Streams)
-- Mini Projects (Bank App, ToDo CLI, etc.)
+Open `.html` files in your browser to see JavaScript in action or run `.js` files with Node.js.
 
-Stay tuned as I update it weekly! 
+---
+
+Feel free to explore and learn along with me!
+
+
